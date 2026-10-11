@@ -1,0 +1,14 @@
+{
+  "name": "shadowmon",
+  "version": "0.1.0",
+  "description": "1-v-1 monster fighting game for the browser",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@fontsource/teko": "^5.3.0",
+    "esbuild": "^0.28.2"
+  },
+  "private": true
+}
